@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 <h1>Welcome to My Learning Journey! 👋</h1>
     
@@ -42,4 +42,4 @@
 [![](https://visitcount.itsvg.in/api?id=theamaan619&icon=10&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</center>
+</div>
